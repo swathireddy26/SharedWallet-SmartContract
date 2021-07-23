@@ -18,10 +18,8 @@ Remix IDE for Smart contract development: https://remix.ethereum.org/
 ## How to write Smart Contract?
 Go to the Remix IDE and create a new file with <Any_Name>. IDE automatically adds .sol extension to the file. 
 
-##How to execute the Smart contract?
-After successful compilation of the smart contract, head over to deploy and run transaction. There we see different environment options.
-
- 
+## How to execute the Smart contract?
+After successful compilation of the smart contract, head over to deploy and run transaction. There we see different environment options. 
 We can deploy the smart contracts using 3 environments:
 
 1. Injected web3 : It is provided by metamask or similar provider. This environment is little slow, becuase the transactions are mined every time we deploy or interact with contract.
