@@ -24,9 +24,9 @@ Go to the Remix IDE and create a new file with <Any_Name>. IDE automatically add
 After successful compilation of the smart contract, head over to deploy and run transaction. There we see different environment options. 
 We can deploy the smart contracts using 3 environments:
 
-1. Injected web3 : It is provided by metamask or similar provider. This environment is little slow, becuase the transactions are mined every time we deploy or interact with contract.
-2. Javascript VM : It is a simulated blockchain environment, that only exists in your browser. It is fast and easy to deploy.
-3. Web3 provider : It establises connection to a software outside of the browser. We can connect to the local blockchain, uisng this environment.
+1. **Injected web3 :** It is provided by metamask or similar provider. This environment is little slow, becuase the transactions are mined every time we deploy or interact with contract.
+2. **Javascript VM :** It is a simulated blockchain environment, that only exists in your browser. It is fast and easy to deploy.
+3. **Web3 provider :** It establises connection to a software outside of the browser. We can connect to the local blockchain, uisng this environment.
 
 
 
