@@ -13,9 +13,9 @@
 https://ethereum-blockchain-developer.com/040-shared-wallet-project/00-overview/
 
 # Tools needed:
-Remix IDE for Smart contract development: https://remix.ethereum.org/
-Metamask browser extension for using Injected Web3 environment: https://metamask.io/
-Ganache By truffle for using Web3 Provider extension: https://www.trufflesuite.com/ganache
+1. Remix IDE for Smart contract development: https://remix.ethereum.org/
+2. Metamask browser extension for using Injected Web3 environment: https://metamask.io/
+3. Ganache By truffle for using Web3 Provider extension: https://www.trufflesuite.com/ganache
 
 ## How to write Smart Contract?
 Go to the Remix IDE and create a new file with <Any_Name>. IDE automatically adds .sol extension to the file. 
