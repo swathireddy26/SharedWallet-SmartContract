@@ -49,7 +49,7 @@ Javascript VM
 web3 provider
 -------------
 1. To use this, we need to install ganache truffle (It is a personal blockchain for rapid ethereum and corda distributed application development). 
-2. when we select web3provider environment option in Remix IDE, it will ask for "Web3 Provider Endpoint". Copy the RPC adress (HTTP://127.0.0.1:7545) from the ganache and supply it here.  
+2. when we select web3provider environment option in Remix IDE, it will ask for "Web3 Provider Endpoint". Copy the RPC adress (http://127.0.0.1:7545) from the ganache and supply it here.  
 3. when we click on okay, we can see all the available accounts of local ganache blockchain in Remix IDE.
 4. Deploy the smart contract and interact with it either from Remix IDE or from truffle suite. All the transactions will be logged in the Ganache.
 
