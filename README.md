@@ -15,10 +15,10 @@ https://ethereum-blockchain-developer.com/040-shared-wallet-project/00-overview/
 # Tools needed:
 Remix IDE for Smart contract development: https://remix.ethereum.org/
 
-**How to write Smart Contract?**
+## How to write Smart Contract?
 Go to the Remix IDE and create a new file with <Any_Name>. IDE automatically adds .sol extension to the file. 
 
-**How to execute the Smart contract?**
+##How to execute the Smart contract?
 After successful compilation of the smart contract, head over to deploy and run transaction. There we see different environment options.
 
  
