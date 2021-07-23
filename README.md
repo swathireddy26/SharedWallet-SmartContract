@@ -28,5 +28,30 @@ We can deploy the smart contracts using 3 environments:
 2. **Javascript VM :** It is a simulated blockchain environment, that only exists in your browser. It is fast and easy to deploy.
 3. **Web3 provider :** It establises connection to a software outside of the browser. We can connect to the local blockchain, uisng this environment.
 
+Injected web3
+-------------
+1. To use this, we need to install Metamask browser extension
+2. Buy some Ethers from any test networks like Goerli, Rinkeby using Faucet
+3. Once remix connects to the Metamask, we will see the account address of test network that we connected to, in the deploy and run transaction page of Remix.
+4. Deploy the contract by making transaction through metamask.
+5. go to the remix IDE 
+6. go to "Deployed Contracts"
+7. select the contract and interact with it using the buttons
+
+Javascript VM 
+-------------
+1. select the "contract" in the contract tab 
+2. just "Deploy" the contract
+3. go to "Deployed Contracts" section
+4. select the contract and interact with it using the buttons 
+
+
+web3 provider
+-------------
+1. To use this, we need to install ganache truffle (It is a personal blockchain for rapid ethereum and corda distributed application development). 
+2. when we select web3provider environment option in Remix IDE, it will ask for "Web3 Provider Endpoint". Copy the RPC adress (HTTP://127.0.0.1:7545) from the ganache and supply it here.  
+3. when we click on okay, we can see all the available accounts of local ganache blockchain in Remix IDE.
+4. Deploy the smart contract and interact with it either from Remix IDE or from truffle suite. All the transactions will be logged in the Ganache.
+
 
 
